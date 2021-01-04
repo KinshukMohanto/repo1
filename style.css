@@ -30,7 +30,7 @@ p{
 }
 section{
     height: 500px;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
@@ -74,4 +74,7 @@ footer p{
 
 #ex{
     text-align: center;
+}
+#small{
+    font-size: 45px;
 }
